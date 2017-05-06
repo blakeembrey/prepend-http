@@ -1,5 +1,7 @@
 # prepend-http [![Build Status](https://travis-ci.org/sindresorhus/prepend-http.svg?branch=master)](https://travis-ci.org/sindresorhus/prepend-http)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/prepend-http.svg)](https://greenkeeper.io/)
+
 > Prepend `http://` to humanized URLs like `todomvc.com` and `localhost`
 
 
