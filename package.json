@@ -27,6 +27,6 @@
     "http"
   ],
   "devDependencies": {
-    "ava": "0.0.4"
+    "ava": "0.19.1"
   }
 }
